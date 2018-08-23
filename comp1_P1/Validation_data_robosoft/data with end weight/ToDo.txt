@@ -1,0 +1,4 @@
+% TO DO
+Get the end positions for end load experiment.
+
+error file fo end weights in data with end weight folder
