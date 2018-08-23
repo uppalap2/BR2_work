@@ -1,0 +1,8 @@
+in P1
+
+
+main_fitting.m
+
+constraints and solver, objecive function also
+
+getparams_g
