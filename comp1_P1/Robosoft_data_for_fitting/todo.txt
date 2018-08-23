@@ -1,0 +1,29 @@
+NEED TO DO
+1) Rotate and change the coordinate fram for all data - done
+2) Use spline fitting for the data in 1) and convert them to meters- done
+3) Store the above processed data which will be used for the fitting- done
+4) Run the fitting with the spline fit data
+    a) Test with previous formulation
+    b) Test with current formulation
+    c) Test with min max setup
+    d) Computational time for each fitting in a) and b)\
+
+
+SOME OTHER NOTES:
+1) Take poissons ratio as 0.5 which is the case for silicone elastomers
+ E = 2G(1+nu)
+E = 3*G
+
+J = 2I
+
+So GJ = 2EI/3
+2) K is positive and tau is negative for our experimental data
+
+3) For 0_0 and 6_0 used a two degree spline fitting
+
+
+NEW FORMULATION:
+getParams3
+
+I = I_z + 
+    
