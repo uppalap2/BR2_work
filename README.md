@@ -1,5 +1,5 @@
 # BR2
-Work for JMR 2020 paper.
+Work for ASME JMR 2021 paper.
 
 https://doi.org/10.1115/1.4048223
 
